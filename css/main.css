@@ -106,6 +106,7 @@ p {
     margin-right:100px;
     background:#aaaaaa;
     margin-top:-100px;
+    background-size: 100% 100%;
 }
 .staff-image-small {
     position:relative;
