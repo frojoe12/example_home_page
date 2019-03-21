@@ -92,8 +92,13 @@ p {
 }
 .hero-container .hero-header {
     position:absolute;
-    top:100px;
+    top:50px;
     width:100%;
+}
+.hero-container .hero-header h2 {
+    color:rgba(255,255,255,.8);
+    font-size:54px;
+    margin-top:-20px;
 }
 
 .staff-image-large {
